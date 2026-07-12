@@ -17,4 +17,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # flutter_math_game
+A simple Flutter quiz app with timer, scoring, and automatic restart."
 >>>>>>> 9cdb435632fd6e0061ff795d2522a5149abd0457
